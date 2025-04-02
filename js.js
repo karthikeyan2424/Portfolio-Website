@@ -51,4 +51,8 @@ document.addEventListener("DOMContentLoaded", function () {
     carouselContainer.addEventListener("mouseleave", function () {
         projectCarousel.cycle();
     });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 9a3965c14a20bc75ef1fdb431a55e803ea55d194
